@@ -5,4 +5,4 @@ An extremely minimal "booru" style app with two main features:
 * add images to favorites (non-persistent)
 
 All drawables with the suffix "unsplash" are provided by Unsplash and accredited authors.<br />
-Developed as part of Google's android development course.
+Developed as part of Google's Android development course.
