@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grindle\'s Booru</string>
+    <string name="navigate_back_content_description">Navigate backwards</string>
+    <string name="navigate_forwards_content_description">Navigate forwards</string>
+    <string name="favorite_content_description">Favorite image</string>
+    <string name="image_content_description">Image</string>
+    <string name="category_favorites">Favorites</string>
+    <string name="category_image_feed">Image Feed</string>
+</resources>
